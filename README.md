@@ -2,7 +2,7 @@
 
 # Limpeza e Normalização de Dados em Python
 
-Este repositório apresenta um guia prático para limpeza e normalização de dados em Python, abordando tratamento de valores ausentes (missing values) e remoção de outliers.
+Este repositório apresenta um guia prático para limpeza e normalização de dados em Python, abordando tratamento de valores ausentes missing values e de outliers que são dados fora de padrão.
 
 ## 📌 Tecnologias Utilizadas
 - 🐍 Python
